@@ -1,0 +1,25 @@
+.error-container {
+    display: flex;
+    align-items: center;
+    margin-top: 5rem; 
+}
+
+.error-container h1 {
+    font-size: 3rem;
+    padding-bottom: 1rem;  
+}
+
+.error-container p {
+    font-size: 2rem; 
+    padding: 0.5rem 0; 
+}
+
+button {
+    margin-top: 2rem; 
+    width: 25%; 
+    padding: 2rem 0.5rem; 
+}
+
+.error-image {
+    width: 50%; 
+}
